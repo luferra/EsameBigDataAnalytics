@@ -1,0 +1,6 @@
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/bin/Debug/Dcn.exe.mdb
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/bin/Debug/Dcn.exe
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/obj/x86/Debug/Dcn.exe
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/obj/x86/Debug/Dcn.exe.mdb
+/Users/lucaferrari/Documents/ETL_workflow/Dcn/bin/Debug/Newtonsoft.Json.dll

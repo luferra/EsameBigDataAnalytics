@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E9B4BB05-ED8B-4332-A131-F79A6ED09B2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Dcn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonDoc.cs">
+    <Files>
+      <File FileName="JsonDoc.cs" Line="714" Column="40" />
+      <File FileName="HttpServer.cs" Line="169" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

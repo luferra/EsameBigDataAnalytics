@@ -1,0 +1,8 @@
+C:\Shared\UdsWebService\Dcn\obj\x86\Release\Dcn.csprojResolveAssemblyReference.cache
+C:\Shared\UdsWebService\Dcn\bin\Release\Dcn.exe
+C:\Shared\UdsWebService\Dcn\bin\Release\Dcn.pdb
+C:\Shared\UdsWebService\Dcn\bin\Release\Newtonsoft.Json.dll
+C:\Shared\UdsWebService\Dcn\bin\Release\UdsWebService.exe
+C:\Shared\UdsWebService\Dcn\bin\Release\UdsWebService.pdb
+C:\Shared\UdsWebService\Dcn\obj\x86\Release\Dcn.exe
+C:\Shared\UdsWebService\Dcn\obj\x86\Release\Dcn.pdb

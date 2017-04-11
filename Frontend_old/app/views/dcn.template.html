@@ -1,0 +1,36 @@
+<!--<script type="text/javascript" src="dsn.js"></script>-->
+
+<div class="template-container" style="width: 30%;
+										background-color: #adadad;
+										height: 95%;
+										top: 5%;
+										left:70%;
+										position: relative;
+                                       padding-top: 50px;
+										z-index: 1000000;
+                                        margin-top: 20px;
+                                        " >
+
+  <!--{{ jsonDCN }}-->
+  <div style="background: #fff;height: 100%;position: fixed;z-index: 999999;">
+    </div>
+  <div id="dsnx">
+    <h4 style="margin: -60px 0px 20px 0px">Spark SQL Code</h4>
+          <div ng-repeat="(key,val) in alerts" class="dcn-error alert {{key}}" id="login-error" style="width:100%; margin-top: 30px;">
+            <div ng-if="key == 'alert-danger'">
+              <img src="images/error.svg" class="error-image" /><div ng-repeat="msg in val">{{msg}}</div>
+            </div>
+            <div ng-if="key == 'alert-success'" style="left:2%;">
+              <span class="glyphicon glyphicon-ok" style="float: left; padding-right: 10px;"></span>
+              <div ng-repeat="msg in val">{{msg}}</div>
+            </div>
+          </div>
+  <img ng-src="{{loadingURL}}" ng-show="showLoading" style="width: 35px; margin-bottom: 30px;" />
+		<textarea class="form-control" rows="22" ng-model="dcn" id="dcn-textarea" style="width:200%;">
+		{{ dcn }}
+		</textarea><br/>
+		<a href="#/" class="btn btn-default ng-isolate-scope">Back</a>
+		<a href="#/" class="btn btn-default ng-isolate-scope" clip-copy="dcn">Copy</a>
+		<!--<button href="#/" class="btn btn-default ng-isolate-scope" clip-copy="dcn">Copy</button>-->
+  </div>
+</div>
